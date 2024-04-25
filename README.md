@@ -7,7 +7,7 @@ Implementing the Genetic Algorithm on the UNSW-NB15 dataset for intrusion detect
 You can find the details of the Genetic Algorithm implementation in the provided paper.
 
 **Base Code:**
-The official implementation of the paper can be found [here]([link-to-github-repo](https://github.com/daffidwilde/edo-paper/tree/main?tab=readme-ov-file)).
+The official implementation of the paper can be found [here](https://github.com/daffidwilde/edo-paper/tree/main?tab=readme-ov-file).
 
 **Dataset:**
 The dataset (UNSW-NB15) contains raw network packets and includes various types of attacks such as DoS, worms, Backdoors, and Fuzzers.
